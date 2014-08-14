@@ -1,6 +1,9 @@
 Rating Scale from 1 to 5
 ========================
-Built with only HTML &amp; CSS for Websites and Email Templates
+**Built with only HTML &amp; CSS for Websites and Email Templates**
+
+[Live Preview](http://www.jonasweigert.com/code/ratings "CSS Ratings Script Preview")
+--------------------------------------
 
 This is a simple CSS library that allows you to create a fully customizable 1-5 rating scale input. This is built only with HTML and CSS. All interactions in your web application can then easily be created with JavaScript or jQuery.
 
